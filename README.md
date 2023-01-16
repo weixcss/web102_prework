@@ -38,6 +38,8 @@ https://www.cockos.com/licecap/
 
 Describe any challenges encountered while building the app.
 
+Using licecap was a new experience for me. I haven't worked with too many GIFs before so it took me 
+a little to get used to putting it on github.
 ## License
 
     Copyright [2023] [Wei Zhu]
